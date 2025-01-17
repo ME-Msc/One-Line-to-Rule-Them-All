@@ -11,4 +11,3 @@ One Ring to rule them all, One Ring to find them, One Ring to bring them all, an
 [^2]: [The Fellowship of the Ring](https://tolkiengateway.net/wiki/The_Fellowship_of_the_Ring).
 [^3]: [The Shadow of the Past](https://tolkiengateway.net/wiki/The_Shadow_of_the_Past).
 
-[My Page](https://me-msc.github.io/)
