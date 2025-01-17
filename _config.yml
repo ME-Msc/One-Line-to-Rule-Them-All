@@ -3,3 +3,6 @@ description: "用最简洁的话解释技术"
 theme: just-the-docs
 
 url: https://ME-Msc.github.io/One-Line-to-Rule-Them-All
+
+aux_links:
+  My Page: https://me-msc.github.io/
