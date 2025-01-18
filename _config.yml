@@ -3,6 +3,29 @@ description: "用最简洁的话解释技术"
 theme: just-the-docs
 
 url: https://ME-Msc.github.io/One-Line-to-Rule-Them-All
+baseurl: /One-Line-to-Rule-Them-All
+repository: ME-Msc/One-Line-to-Rule-Them-All
+
+search_enabled: true
 
 aux_links:
-  My Page: https://me-msc.github.io/
+  My GitHub: https://github.com/ME-Msc
+  My Blog: https://me-msc.github.io/
+aux_links_new_tab: true
+
+# SEO 优化
+markdown: kramdown
+highlighter: rouge
+
+# 每页显示 10 篇文章
+paginate: 10
+paginate_path: "/page:num/"
+
+# 配置导航
+just_the_docs:
+  # 自动生成导航栏，基于文件结构
+  navigation:
+    structure: nested
+
+  # 默认折叠导航
+  collapse_section: true
