@@ -12,10 +12,10 @@ search_enabled: true
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
-  heading_level: 2
+  heading_level: 6
   # Maximum amount of previews per search result
   # Default: 3
-  previews: 2
+  previews: 5
   # Maximum amount of words to display before a matched word in the preview
   # Default: 5
   preview_words_before: 3
@@ -31,7 +31,7 @@ search:
   rel_url: true
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
-  button: false
+  button: true
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: "k"
 
@@ -76,7 +76,16 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+      toc: true  # 启用页面内目录
 
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
+
+just_the_docs:
+  # 导航栏的结构和折叠设置
+  navigation:
+    structure: nested  # 基于目录自动生成嵌套导航栏
+  collapse_section: true  # 默认折叠导航中的各层级标题
+  show_toc: true  # 显示页面内的目录
+  toc_levels: 1..6  # 页面内目录显示 h1 到 h6 的标题层级
