@@ -1,6 +1,6 @@
 ---
 title: "MATLAB"
-nav_order: 1
+nav_order: 2
 ---
 
 # Matlab 官方基础教程
