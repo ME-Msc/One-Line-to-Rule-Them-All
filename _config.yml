@@ -21,10 +21,11 @@ highlighter: rouge
 paginate: 10
 paginate_path: "/page:num/"
 
-# 配置导航
-just_the_docs:
-  # 自动生成导航栏，基于文件结构
-  navigation:
-    structure: auto
-  # 默认折叠导航
-  collapse_section: true
+permalink: pretty
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"

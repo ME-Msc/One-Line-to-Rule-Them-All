@@ -1,7 +1,6 @@
 ---
 title: "MATLAB"
-permalink: /matlab/
-layout: default
+nav_order: 1
 ---
 
 # Matlab 官方基础教程
