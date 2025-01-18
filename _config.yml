@@ -25,7 +25,6 @@ paginate_path: "/page:num/"
 just_the_docs:
   # 自动生成导航栏，基于文件结构
   navigation:
-    structure: nested
-
+    structure: auto
   # 默认折叠导航
   collapse_section: true

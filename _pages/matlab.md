@@ -1,6 +1,7 @@
 ---
 title: "MATLAB"
 permalink: /matlab/
+layout: default
 ---
 
 # Matlab 官方基础教程
