@@ -76,7 +76,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-      toc: true  # 启用页面内目录
+      toc: true # 启用页面内目录
 
 # Back to top link
 back_to_top: true
@@ -85,7 +85,9 @@ back_to_top_text: "Back to top"
 just_the_docs:
   # 导航栏的结构和折叠设置
   navigation:
-    structure: nested  # 基于目录自动生成嵌套导航栏
-  collapse_section: true  # 默认折叠导航中的各层级标题
-  show_toc: true  # 显示页面内的目录
-  toc_levels: 1..6  # 页面内目录显示 h1 到 h6 的标题层级
+    structure: nested # 基于目录自动生成嵌套导航栏
+  collapse_section: true # 默认折叠导航中的各层级标题
+  show_toc: true # 显示页面内的目录
+  toc_levels: 1..6 # 页面内目录显示 h1 到 h6 的标题层级
+  search:
+    regenerate: true
