@@ -1,10 +1,8 @@
 ---
 title: "Matlab"
-nav_order: 2
 ---
 
 # Matlab 官方基础教程
-
 {: .no_toc }
 
 <details open markdown="block">

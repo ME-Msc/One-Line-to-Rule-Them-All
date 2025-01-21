@@ -86,6 +86,7 @@ just_the_docs:
   # 导航栏的结构和折叠设置
   navigation:
     structure: nested # 基于目录自动生成嵌套导航栏
+    sort: true # 按字典序自动排序
   collapse_section: true # 默认折叠导航中的各层级标题
   show_toc: true # 显示页面内的目录
   toc_levels: 1..6 # 页面内目录显示 h1 到 h6 的标题层级
