@@ -3,6 +3,7 @@ title: "Vim"
 ---
 
 # [Vim](https://missing-semester-cn.github.io/2020/editors/)
+
 {: .no_toc }
 
 <details open markdown="block">

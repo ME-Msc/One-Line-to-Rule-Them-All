@@ -3,6 +3,7 @@ title: "C++"
 ---
 
 # C++
+
 {: .no_toc }
 
 <details open markdown="block">
@@ -48,8 +49,8 @@ for (int i = 0; i < array_size; i++)
 vector<vector<double>> t(array_size, vector<double>(array_size));
 for (int i = 0; i < array_size; i++)
 {
-	// 方法1：直接定义一个一维的vector，其首地址为数组的起始地址，末尾地址为最后的地址。
-	t[i] = vector<double>(array[i], array[i] + array_size);
+    // 方法1：直接定义一个一维的vector，其首地址为数组的起始地址，末尾地址为最后的地址。
+    t[i] = vector<double>(array[i], array[i] + array_size);
     // 方法2：直接使用memcpy进行复制
     // memcpy(&ttt[i][0], &array[i][0], array_size * sizeof(double));
 }
