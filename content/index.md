@@ -6,25 +6,24 @@ publish: true
 > One Ring to rule them all, One Ring to find them, One Ring to bring them all, and in the darkness bind them.[^1][^2][^3]  
 > — *J.R.R. Tolkien*
 
-这里是我的 Obsidian 知识库入口。内容按主题整理在 `notes/` 下，作为公开站点的主要结构。
+这里是我的 Obsidian 知识库入口。内容按主题整理在 `tools/`、`programming/` 和 `robotics/` 三个目录下，作为公开站点的主要结构。
 
 ## 导航
 
-- [[notes/index|全部笔记]]
-- [[notes/tools/index|工具箱]]
-- [[notes/programming/index|编程]]
-- [[notes/robotics/index|机器人与仿真]]
+- [[tools/index|工具箱]]
+- [[programming/index|编程]]
+- [[robotics/index|机器人与仿真]]
 
 ## 最近整理
 
-- [[notes/tools/Git|Git]]
-- [[notes/tools/Command Line|Command Line]]
-- [[notes/tools/Shell|Shell]]
-- [[notes/tools/Vim|Vim]]
-- [[notes/programming/C++|C++]]
-- [[notes/programming/Matlab|Matlab]]
-- [[notes/programming/Makefile|Makefile]]
-- [[notes/robotics/AirSim|AirSim]]
+- [[tools/Git|Git]]
+- [[tools/Command Line|Command Line]]
+- [[tools/Shell|Shell]]
+- [[tools/Vim|Vim]]
+- [[programming/C++|C++]]
+- [[programming/Matlab|Matlab]]
+- [[programming/Makefile|Makefile]]
+- [[robotics/AirSim|AirSim]]
 
 ---
 

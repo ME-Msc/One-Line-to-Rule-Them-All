@@ -5,4 +5,4 @@ tags:
   - robotics
 ---
 
-- [[notes/robotics/AirSim|AirSim]]
+- [[robotics/AirSim|AirSim]]
