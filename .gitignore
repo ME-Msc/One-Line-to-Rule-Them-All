@@ -11,3 +11,13 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+
+# Private notes and assets that must never be committed
+content/private/
+content/**/private/
+content/assets/private/
+content/assets/raw/
+node_modules/
+public/
+content/.obsidian/
+content/.trash/
