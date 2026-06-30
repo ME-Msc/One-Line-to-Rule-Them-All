@@ -1,20 +1,9 @@
 ---
 title: Git
 publish: true
+tags:
+  - tools/git
 ---
-
-# Git
-
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ## 基础
 

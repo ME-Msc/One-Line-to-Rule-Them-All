@@ -1,9 +1,11 @@
 ---
 title: Makefile
 publish: true
+tags:
+  - programming/makefile
 ---
 
-# [Makefile](https://seisman.github.io/how-to-write-makefile/overview.html)
+> Reference: [跟我一起写 Makefile](https://seisman.github.io/how-to-write-makefile/overview.html)
 
 ```makefile
 include foo.make *.mk                           # 包含其他makefile，执行make时会在当前目录下查找，也可通过-I参数指定

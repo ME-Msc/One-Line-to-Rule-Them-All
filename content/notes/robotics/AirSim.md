@@ -1,20 +1,11 @@
 ---
-title: Airsim
+title: AirSim
 publish: true
+tags:
+  - robotics/airsim
 ---
 
-# AirSim Quick Start
-
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+AirSim 快速配置与测试笔记。
 
 ## [环境配置](https://microsoft.github.io/AirSim/build_windows/)
 

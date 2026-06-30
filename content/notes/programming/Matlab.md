@@ -1,20 +1,11 @@
 ---
 title: Matlab
 publish: true
+tags:
+  - programming/matlab
 ---
 
-# Matlab 官方基础教程
-
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+Matlab 官方基础教程笔记。
 
 ## 命令
 

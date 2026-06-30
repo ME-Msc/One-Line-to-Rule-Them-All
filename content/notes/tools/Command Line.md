@@ -1,9 +1,11 @@
 ---
-title: Cmd
+title: Command Line
 publish: true
+tags:
+  - tools/command-line
 ---
 
-# [Cmd](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+> Reference: [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 
 - `pwd`：获取当前工作路径
 - `chmod 777 file.txt`：修改文件权限，三位数分别对应当前用户、用户组、所有用户。7 代表二进制 111，分别代表 rwx 读写执行权限

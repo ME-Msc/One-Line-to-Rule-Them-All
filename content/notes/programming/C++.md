@@ -1,20 +1,9 @@
 ---
 title: C++
 publish: true
+tags:
+  - programming/cpp
 ---
-
-# C++
-
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ## `include <vector>`
 

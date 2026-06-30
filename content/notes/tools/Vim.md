@@ -1,20 +1,11 @@
 ---
 title: Vim
 publish: true
+tags:
+  - tools/vim
 ---
 
-# [Vim](https://missing-semester-cn.github.io/2020/editors/)
-
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+> Reference: [Missing Semester - Editors](https://missing-semester-cn.github.io/2020/editors/)
 
 ## 进入退出 Vim 编辑器
 

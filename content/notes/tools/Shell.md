@@ -1,9 +1,11 @@
 ---
 title: Shell
 publish: true
+tags:
+  - tools/shell
 ---
 
-# [Shell](https://missing-semester-cn.github.io/2020/shell-tools/)
+> Reference: [Missing Semester - Shell Tools](https://missing-semester-cn.github.io/2020/shell-tools/)
 
 - `foo=bar`而非`foo = bar`：变量赋值，空格会导致语义分割
 - `$foo`：访问变量的值
